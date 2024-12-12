@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@keyframes float {
+  0% {
+    transform: translateY(0) rotate(0deg);
+  }
+  50% {
+    transform: translateY(100vh) rotate(180deg);
+  }
+  100% {
+    transform: translateY(200vh) rotate(360deg);
+  }
+}
