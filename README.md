@@ -15,7 +15,7 @@ Check out the live application here: [Weather-KM](https://weather-km.netlify.app
 
 ## Screenshots
 
-![Weather App Screenshot](https://via.placeholder.com/800x400)  ![image](https://github.com/user-attachments/assets/fdb4c2f7-d061-4554-88ba-bf84658ef1dc)
+![Weather App Screenshot]  ![image](https://github.com/user-attachments/assets/fdb4c2f7-d061-4554-88ba-bf84658ef1dc)
 
 *A snapshot of the Weather App in action.*
 
@@ -32,7 +32,7 @@ Follow these steps to run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/weatherapp.git
+   git clone https://github.com/manyamkarthik/weatherapp.git
    ```
 
 2. Navigate to the project directory:
@@ -90,16 +90,14 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
    ```
 5. Submit a pull request.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
 If you have any questions or feedback, feel free to reach out:
 
-- **Email**: [yourname@example.com](mailto:yourname@example.com)
-- **LinkedIn**: [Your Profile](https://www.linkedin.com/in/yourprofile/)
+- **Email**: [yourname@example.com](mailto:harikarthikmanyam@gmail.com)
+- **LinkedIn**: [Your Profile](https://www.linkedin.com/in/karthik-manyam/)
 
 ---
 
