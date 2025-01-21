@@ -97,7 +97,7 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 If you have any questions or feedback, feel free to reach out:
 
 - **Email**: [harikarthikmanyam@gmail.com](mailto:harikarthikmanyam@gmail.com)
-- **LinkedIn**: [https://www.linkedin.com/in/karthik-manyam/](https://www.linkedin.com/in/karthik-manyam/)
+- **LinkedIn**: [https://www.linkedin.com/in/karthik-manyam/](https://www.linkedin.com/in/hari-karthik-manyam/)
 
 ---
 
